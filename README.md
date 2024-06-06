@@ -19,7 +19,7 @@ Untuk menginstal dan menjalankan proyek ini secara lokal, ikuti langkah-langkah 
 
 1. Clone repositori:
    bash
-   git clone 
+   git clone https://github.com/Akhsania/AskMeFit.git
    cd askmefit
    
 
